@@ -1,0 +1,24 @@
+Read: JavaScript & jQuery Chapter 3a
+
+Read:
+
+Read pages 86 through 99 of chapter 3 in the JavaScript & jQuery book.
+
+While the amount of reading is low, understanding JavaScript functions is crucial. You must understand functions to move forward. Read slowly and carefully.
+
+Reflection:
+
+ Answer the following questions in your own words.
+
+What's the difference between defining a function and calling a function?
+What is a function parameter/argument?
+What is the difference between a function declaration and a function assignment?
+How does a function return a value and what must be done to use a value that a function returns?
+Is a function required to return a value?
+Do all functions require arguments in order to work?
+If I have a function: function x(a,b) {alert(a); alert(b);} and I invoke the function with x('hi', 5); What will the output of the function be?
+Does the previous function example return any values?
+Given this function var f = function(a,b){ return a + b }; How would I use this function to alert the sum of 2 numbers?
+Why are functions so useful to programmers?
+How might you use functions in your own guessing game?
+After writing your reflection, you'll be able to read and reply to your classmates' reflections as well.
