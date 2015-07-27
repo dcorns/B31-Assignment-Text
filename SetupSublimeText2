@@ -1,0 +1,25 @@
+We'll use a text-editing program called Sublime Text 2.
+
+Please download it from this url:
+
+http://www.sublimetext.com (Links to an external site.)
+
+(Ignore any references to Sublime Text 3, which is still in beta)
+
+Follow the necessary steps to install the program. Ensure you know how to launch it.
+
+Sublime Text works just like most other text editors, but has some very nice advanced features, including a plugin system that allows developers to make it do even more.
+
+Practice using Sublime:
+
+Create a folder called 'projects' in your home folder for storing projects. All your course project folders and files should be kept in this folder.
+Create a text file that contains "Hello, world!"
+Save it in to the projects folder that you created in your home folder.
+Practice closing, reopening, and editing this file as needed.
+Now open the entire project directory in sublime, so all the files in the folder show in the side bar.
+Explore some of the advanced features.
+Watch videos from this free course to help you along: http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2
+
+Search the web as needed for any other instructions and guides needed. There are lots out there!
+
+As a submission, 1) let us know how much time you spent on this, 2) what problems you ran into setting it up or working through the video course, 3) which sections of the tutorial you completed, and 4) Confirm that you have it all working.
