@@ -1,0 +1,45 @@
+In class, we wrote a program that accepted user input and, based on that input, displayed a message back to the user.
+
+Now, it's your turn to write a program on your own.
+
+Create your own guessing game on a topic that relates to you. For example, here are some questions you could ask the user to guess:
+
+How many hours have you been alive?
+How many times have you visited your Grandma?
+How many My Little Pony characters you can name?
+How many hours have you logged in your favorite game?
+Your program must have the following features.
+
+1) Prompt the user for input.
+2) Alert the user with different messages based on that input. You will need to use some sort of conditional statement to redirect your programs responses based on input.
+
+If you get the basic pieces in place quickly, stretch yourself to extend your program in fun and clever ways.
+
+Getting started:
+
+In your project folder create a folder called guessing_game.
+Initialize the guessing_game folder as a git repository. (using terminal change to the guessing_game folder and enter 'git init')
+In this guessing game folder create a file called game.html.
+Add your JavaScript code between <script> and </script> tags.
+Use prompt() and alert() for user input and output.
+Write your program in your text editor. (sublimetext 2)
+Run and test your program in Chrome.
+EXTRA: Think about how readable your program is to other programmers.
+
+Using 'git add', Add the program to the staging area.
+Using 'git commit', Commit the staging area with a meaningful message.
+
+Create a README.md file and explain how your game works.
+Add this file to the staging area.
+Commit the staging area with a meaningful message.
+
+Synchronizing your work with a github repository:
+Create an empty repository on GitHub also called guessing_game.
+Using 'git remote', add an origin remote to your local repository that points to your new GitHub repository.
+Using 'git push', push your local master branch (default branch) to the origin master branch on GitHub.
+
+Submitting the assignment:
+Submit the link to your GitHub repository to this Canvas assignment.
+Add a comment to your Canvas submission with answers to the following questions.
+1) How long did this assignment take you?
+2) What observations or questions do you have about what you've learned?
