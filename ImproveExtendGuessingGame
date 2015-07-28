@@ -1,0 +1,49 @@
+In class, we learned about clean code and reusable behavior. Now, let's apply these concepts to your own program.
+
+Using a technique called Pair Programming, find a partner and take turns improving and extending each other's game.
+
+How to Pair Program:
+
+When working in pairs, use one computer at a time. Pick one person's game to start with and let the other person be the Driver—the one who can touch the keyboard. IMPORTANT: Don't spend the entire lab working on one person's game.
+
+As the Driver, you must do the following.
+
+1) Fork your partner's game on GitHub. This will create a linked copy of your partner's repository on your github account.
+2) Use 'git clone' to clone your copy of the repository to your computer. Since your partner's repository has the same name as your own local repository, add a different directory name to the end of the clone statement so that it will not conflict with your own game.
+For example git clone https://github.com/fabrikate/guessing_game partner_guessing_game
+3) Open and Run their game on your computer.
+4) Let the game's author—the Navigator—explain how the game works and how the code works.
+5) Suggest at least three ways to improve and extend the game to the Navigator.
+
+How to improve:
+First, focus on improving the clarity of your partner's code. Don't worry about adding more features yet. Just concentrate on writing clean, easy-to-read JavaScript code.
+What parts of the code are hard to understand or explain?
+Can the style or readability of the code be improved?
+How can part of the program be moved into a function that accepts arguments and returns a value?
+Are there any bugs that need fixing?
+When in doubt, follow the coding conventions demonstrated by the book's authors.
+
+How to extend:
+Now that your partner's code is easier to read, suggest a couple of features to make it better.
+Pick features that are fun and relevant, but not too complex.
+Maintain a clean coding style as you go.
+
+Once everyone is in agreement, the Driver must also do the following.
+1) Modify the game code as discussed.
+2) Update the explanation of your partner's game in their README.md file.
+3) Add the modifications to the staging area.
+4) Commit the staging area with a meaningful message.
+5) Push all the commits from your local master branch to your origin's master branch on GitHub.
+6) Create a Pull Request from your GitHub master branch to the partner's GitHub master branch.
+7) Once sent, ask your partner to review and accept your Pull Request.
+8) Once accepted, your partner must pull their origin's master branch down to their local master branch.
+
+Now, switch roles and start over and do the assignment with the other game.
+
+Submitting your work:
+
+1) Submit the link to the Pull Request that you created on your partner's repository to this Canvas assignment.
+    (note: the link to your pull request should point to your partner's repository, not your own)
+2) Add a comment to your Canvas submission with answers to the following questions.
+    How much time did you spend on each person's code?
+    What observations or questions do you have about what you've learned?
