@@ -1,0 +1,22 @@
+Read: Write-up on Domain Modeling
+
+Read:
+
+Read this write-up (Links to an external site.) on domain modeling.
+
+Focus on reading slowly and carefully. While reading, type out and run all the code samples you come across. Do not copy and paste.
+
+Reflect:
+
+ Answer the following questions in your own words.
+
+What's domain modeling?
+Why are domain models so useful to programmers?
+What's are some attributes and behaviors from a past job that you could model?
+Considering a domain model of a library answer the following questions:
+How would a book shelf relate to the rest of the objects in the library?
+What methods might be included in the library domain?
+What would might be the parent object of a book?
+What could be considered a child object of a book?
+
+After writing your reflection, you'll be able to read and reply to your classmates' reflections as well.
