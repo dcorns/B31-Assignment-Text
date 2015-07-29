@@ -1,0 +1,74 @@
+In class, we wrote a constructor function that defined properties and methods. Then we used that constructor function to initialize new objects. Now, it's your turn to refactor your guessing game to use the same technique.
+
+** Before writing a single line of code, create and checkout a branch called constructor. Use this branch to commit all of your changes.
+
+Using properties:
+You'll be working with a partner again (a different one from yesterday) in the same Driver/Navigator model.
+
+As the Driver, you must do the following.
+
+1) Fork your partner's game on GitHub. This will create a linked copy of your partner's repository on your github account.
+2) Use 'git clone' to clone your copy of the repository to your computer. Since your partner's repository has the same name as your own local repository, add a different directory name to the end of the clone statement so that it will not conflict with your own game.
+For example git clone https://github.com/fabrikate/guessing_game partner_guessing_game
+3) Open and Run their game on your computer.
+4) Let the game's author—the Navigator—explain how the game works and how the code works.
+5) Analyze the game and identify where its state lives. In other words, look for variables that contain state data.
+    Here are some possible pieces of state that you may come across in your investigation:
+    Player name, Current score, Correct answer, Remaining guesses
+6) Once identified, write a constructor function that represents these variables as properties.
+    Ensure the name of the constructor function starts with a capital letter.
+    Replace the old state variables with the object's state properties.
+    Declare parameters that accept any initial state values. (function F (name) { this.name = name; })
+    Using the key word this create properties to store the initial state and any calculated state. (this.guesses = 0;)
+7) Once defined, instantiate a new object as a global variable using the constructor function. (var f = new F('myName');
+    Don't forget to pass in the initial state to the constructor function.
+
+
+Swap roles and complete the previous steps for both games before moving on to using methods below.
+
+Using methods:
+
+Now, analyze each game, one at time, and identify what actions are taken in the game.
+
+Some example actions:
+Updating the state based on the player's input.
+Calculating the score, the remaining guesses, etc.
+Determining if the player won or lost the game.
+
+8) Once identified, define methods(functions) inside your constructor function that perform the actions.
+    Using the key word this, create methods.
+    If needed, declare parameters to accept additional player input.
+        this.add = function(parameter1, parameter2){return parameter1 + parameter2};
+    Create a method to read game input and use it to update the game's properties.
+    Replace all the old code with code that invokes the object's methods.
+
+When completed, each game's javascript should consist only of:
+ 1) the object constructor function
+ 2) the instantiation of the object, and
+ 3) invocations of the object methods
+
+For example:
+    var Game = function (name){
+        this.name = name;
+        this.startGame = function(){'game logic in here'};
+        this.checkAnswer = function(){'more game logic in here'};
+        this.numberOfGuesses = 0;
+    }
+    var game1 = new Game ('George');
+    game1.startGame();
+    game1.checkAnswer();
+
+Help each other refactor both games and ask for help when you get stuck.
+
+Using GitHub send the changes to your partners repository:
+9) Push your local constructor branch to your own origin's constructor branch.
+10) Merge your refactor branch with the master on git hub.
+11) Create a pull request on your partners repository.
+
+Submitting your work:
+
+On GitHub merge the pull request that you received from your partner into your master branch.
+Submit the link of your merge to this Canvas assignment.
+Add a comment to your Canvas submission with answers to the following questions.
+How long did this assignment take you?
+What observations or questions do you have about what you've learned?
