@@ -1,0 +1,26 @@
+In class, we wrote a program that reads and updates the Document Object Model or DOM. Now, let's apply these techniques to your guessing game.
+
+Before writing a single line of code, create and checkout a branch called dom. Use this branch to commit all of your changes.
+
+Manipulating the DOM:
+
+Start off by locating all the places in your game that call the alert() function. Then replace this code with DOM function calls that do the following.
+
+Read in DOM nodes and store them in variables.
+Update the text content of these DOM nodes or
+Create elements and append them to these DOM nodes.
+How your program updates the DOM will depend on how the HTML is structured. Use chapter 5 of the JavaScript & jQuery book as a reference. If you're still unsure, consult your TAs on which DOM function calls would be best.
+
+If you get the basic pieces in place quickly, stretch yourself to replace your prompt() functions with input tags and button tags. Then, connect the button tags to event handlers as described in chapter 6 of the JavaScript & jQuery book.
+
+After you are satisfied with your changes:
+Push your local dom branch to your origin's dom branch.
+On GitHub, create a Pull Request from the dom branch to the master branch.
+Review and accept that Pull Request.
+Pull down the origin's master branch to your local master branch.
+
+Submitting your work:
+Submit the link to your Pull Request to this Canvas assignment.
+Add a comment to your Canvas submission with answers to the following questions.
+How long did this assignment take you?
+What observations or questions do you have about what you've learned?
