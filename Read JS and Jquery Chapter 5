@@ -1,0 +1,21 @@
+Read: JavaScript & jQuery Chapter 5
+
+Read:
+
+Read pages 184 through 242 of chapter 5 in the JavaScript & jQuery book.
+
+SKIP pages 208 through 215
+READ pages 216 through 227
+SKIP pages 228 through 235
+READ pages 236 to the end of the chapter
+Reflection:
+
+To help you reflect on these topics, describe in your own words:
+
+What is the DOM, anyway?
+Why is the DOM useful to programmers?
+How might you manipulate the DOM in your guessing game?
+How could you use a given element object from the DOM to access the attributes of its parent object.
+What is the path object of the DOM event object, and how could you use it?
+Why would it be a bad idea to create a global variable called document in your programs?
+After writing your reflection, you'll be able to read and reply to your classmates' reflections as well.
