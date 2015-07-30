@@ -1,0 +1,29 @@
+Do your own research to learn more CSS properties for transforms, transistions, and animations. Now, apply these techniques to your own donut shop program.
+
+Before writing a single line of code, create and checkout a branch called animate. Use this branch to commit all of your changes.
+
+Animate your page:
+
+Add some delight to your donut shop page. Have fun with it!
+
+Animate the elements of your donut shop:
+1) Implement a CSS transform.
+2) Implement a CSS transition.
+3) Implement a CSS animation.
+4) Once you have completed these requirements, continue to add as many as you desire.
+5) Push your local animate branch to origin. (GitHub)
+6) On GitHub, create a Pull Request from the animate branch to the master branch.
+7) Review and accept that Pull Request.
+8) Pull down the origin's master branch to your local master branch.
+
+Here are a handful of resources to get your creative juices flowing.
+    8 simple CSS3 transitions that will wow your users (http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/)
+    Buttons animated (http://codepen.io/retyui/pen/ByoaXV)
+    404 (http://codepen.io/kieranfivestars/pen/MYdQxX)
+    Pure CSS Bounce Animation (http://codepen.io/dp_lewis/pen/gCfBv)
+
+Submitting your work:
+1) Submit the link to your Pull Request to this Canvas assignment.
+2) Add a comment to your Canvas submission with answers to the following questions.
+    How long did this assignment take you?
+    What observations or questions do you have about what you've learned?
