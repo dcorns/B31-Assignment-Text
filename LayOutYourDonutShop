@@ -1,0 +1,28 @@
+In class, you learned various CSS properties for laying out content in a webpage. Now, it's your turn to improve the layout of your own donut shop program.
+
+Before writing a single line of code, create and checkout a branch called layout. Use this branch to commit all of your changes.
+
+Layout your page:
+Start by sketching out, on paper, how you want your webpage to look.
+Add more content if needed. Instructions, more images, marketing copy, or lorem ipsum if you like, to ensure your page has a few different sections.
+Do not use a grid system. Practice using the fundamental layout properties first.
+
+1) Add either a fixed width or fluid width layout to your web page.
+2) Extend your donut shop program with the following CSS components:
+    An element that uses fixed positioning
+    An element that uses absolute positioning
+    An element that uses relative positioning
+3) Synchronize your local and GitHub repositories.
+    Push your local layout branch to your origin's layout branch.
+    On GitHub, create a Pull Request from the layout branch to the master branch.
+    Review and accept that Pull Request.
+    Pull down the origin's master branch to your local master branch.
+
+Submitting your work:
+1) Submit the link to your Pull Request to this Canvas assignment.
+2) Identify which elements are using the different types of positioning.
+3) Add a comment to your Canvas submission with answers to the following questions.
+    How long did this assignment take you?
+    What observations or questions do you have about what you've learned?
+
+(This submission flow should be getting more comfortable to you. Keep working with instructors/TAs to work out the kinks.)
