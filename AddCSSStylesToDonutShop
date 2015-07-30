@@ -1,0 +1,37 @@
+In class, you learned various CSS properties that alter the visual style of a webpage. Now, it's your turn to improve the visual style of your own donut shop program.
+
+This is a pair-programming assignment.
+ Find your pair, and decide who will drive first. Set a time limit for the navigator can switch to driver.
+
+ As the Driver, you must do the following.
+
+1) Fork your partner's donut_shop on GitHub. This will create a linked copy of your partner's repository on your GitHub account.
+2) Use 'git clone' to clone your copy of the repository to your computer. Since your partner's repository has the same name as your own local repository, add a different directory name to the end of the clone statement so that it will not conflict with your own donut_shop directory.
+ For example git clone https://github.com/fabrikate/donut_shop partner_donut_shop
+3) Open and Run their code on your computer.
+4) Let the game's author—the Navigator—explain how the code works.
+5) Before writing a single line of code, create and checkout a branch called styles. Use this branch to commit all of your changes.
+6) Style the page:
+    In additional to a table, ensure the program has a few headers and and a few paragraph descriptions.
+    Create an external stylesheet called styles.css and include it in the web page with a link tag.
+    (<link href="styles.css" type="text/css" rel="stylesheet">)
+    Inside this file, style both the textual and the tabular data of the program.
+    Experiment with CSS properties from chapters 10 through 14 in the HTML & CSS book.
+    Express your typographical taste with a custom font family from Google Fonts.
+    Demonstrate your inner hipster with a unique color scheme from Adobe Color CC.
+    If you're looking for inspiration, try searching on Dribble.
+7) In your README.md file, give attribution to the people and organizations who've inspired you.
+8) Update the GitHub repositories.
+    Push your local styles branch to your origin's styles branch, on your fork.
+    On GitHub, create a Pull Request from the styles branch to the master branch of the navigator's original repo.
+    The navigator can review and accept that Pull Request.
+    Add an upstream repo to your fork, pointing at the navigator's repo.
+    Pull down the upstream's master branch to your local master branch.
+
+Now swap roles and do it again.
+
+Submitting your work:
+Submit the link to the Merge of the partner's style branch with your master, for this Canvas assignment.
+Add a comment to your Canvas submission with answers to the following questions.
+How long did this assignment take you?
+What observations or questions do you have about what you've learned?
