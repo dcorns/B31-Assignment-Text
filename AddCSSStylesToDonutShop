@@ -9,7 +9,7 @@ This is a pair-programming assignment.
 2) Use 'git clone' to clone your copy of the repository to your computer. Since your partner's repository has the same name as your own local repository, add a different directory name to the end of the clone statement so that it will not conflict with your own donut_shop directory.
  For example git clone https://github.com/fabrikate/donut_shop partner_donut_shop
 3) Open and Run their code on your computer.
-4) Let the game's author—the Navigator—explain how the code works.
+4) Let the author—the Navigator—explain how the code works.
 5) Before writing a single line of code, create and checkout a branch called styles. Use this branch to commit all of your changes.
 6) Style the page:
     In additional to a table, ensure the program has a few headers and and a few paragraph descriptions.
