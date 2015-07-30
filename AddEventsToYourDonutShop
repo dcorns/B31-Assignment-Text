@@ -1,0 +1,35 @@
+In class, you learned how to listen for and handle user events in the browser. Now, it's your turn to add these techniques to your donut shop program.
+
+Before writing a single line of code, create and checkout a branch called events. Use this branch to commit all of your changes.
+
+Listen for and handle events:
+
+For this assignment, you're not allowed to use the prompt() function or jQuery.
+Imagine a scenario where a user would like add new locations to the table.
+
+1) Add input tags for the following location attributes.
+    Location name
+    Minimum customers per hour
+    Maximum customers per hour
+    Average donuts purchased per customer
+
+2) Then add a button tag that saves the location in the following manner.
+    Creates a new DonutShop object with the user supplied data from the input tags.
+    Appends a row to the table using the new object's hourly and daily donut totals.
+
+3) Once you've figured out how to add a new location, try using the same HTML elements to update an existing location.
+    Here is a tip: Use an Array to hold your DonutShop objects.
+
+4) Once you've figured out how to update an existing location, try implementing a few event-based easter eggs. (hidden/undocumented surprises)
+
+5) Update your GitHub repository
+    Push your local events branch to your origin's events branch.
+    On GitHub, create a Pull Request from the events branch to the master branch.
+    Review and accept that Pull Request.
+    Pull down the origin's master branch to your local master branch.
+
+Submitting your work:
+    Submit the link to your Pull Request to this Canvas assignment.
+    Add a comment to your Canvas submission with answers to the following questions.
+        How long did this assignment take you?
+        What observations or questions do you have about what you've learned?
