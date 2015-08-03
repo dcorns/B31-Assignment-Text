@@ -9,3 +9,6 @@ Contributions are welcomed and encouraged and can include proofing text, improvi
 
 ###How to add contribution
 Fork the repo, make your changes and submit a pull request.
+
+###Adding issues
+If you are a student and have noticed a flaw in the assignment test to convey the proper meaning or notice errors in the text, please open and issue so we can address it.
